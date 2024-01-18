@@ -1,3 +1,7 @@
 python-dotenv
 openai
 requests
+openai-whisper
+ffmpeg
+python-ffmpeg
+pydub
