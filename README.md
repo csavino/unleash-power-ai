@@ -59,7 +59,7 @@ Or simply run
 pip install -r requirements.txt
 ```
 
-## [**Create a .env file to store your API_KEY**]()
+## **Create a .env file to store your API_KEY**
 
 **.env** file should have this line:
 
